@@ -10,5 +10,6 @@ Following is the list papers that I read for understanding about Adverserial Att
 * [Ensemble Adverserial Training : Attack and Defense](https://arxiv.org/pdf/1705.07204.pdf)
 * [Adversarial Examples In Physical World](https://arxiv.org/pdf/1607.02533.pdf)
 * [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677)
+* [On Adaptive Attacks to Adversarial Example Defenses](https://arxiv.org/pdf/2002.08347.pdf)
  
 
