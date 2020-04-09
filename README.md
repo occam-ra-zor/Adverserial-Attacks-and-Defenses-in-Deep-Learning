@@ -12,6 +12,6 @@ Following is the list papers that I read for understanding about Adverserial Att
 * [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677)
 * [On Adaptive Attacks to Adversarial Example Defenses](https://arxiv.org/pdf/2002.08347.pdf)
 * [Universal Adversarial Perturbations](https://arxiv.org/abs/1610.08401.pdf)
-* [Exploring the Space of Adversarial Images](https://arxiv.org/pdf/1510.05328.pdf)
+* [On Detecting Adversarial Perturbations](https://arxiv.org/pdf/1702.04267.pdf)
  
 
