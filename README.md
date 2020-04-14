@@ -13,5 +13,7 @@ Following is the list papers that I read for understanding about Adverserial Att
 * [On Adaptive Attacks to Adversarial Example Defenses](https://arxiv.org/pdf/2002.08347.pdf)
 * [Universal Adversarial Perturbations](https://arxiv.org/abs/1610.08401.pdf)
 * [On Detecting Adversarial Perturbations](https://arxiv.org/pdf/1702.04267.pdf)
+* [Detecting Adversarial Examples from artifacts](https://arxiv.org/pdf/1703.00410.pdf)
+* [Obfuscated Gradients Give a False Sense of Security :Circumventing Defenses to Adversarial Examples](https://arxiv.org/pdf/1802.00420.pdf)
  
 
