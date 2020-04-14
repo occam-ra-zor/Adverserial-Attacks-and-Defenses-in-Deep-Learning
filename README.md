@@ -5,6 +5,7 @@ Following is the list papers that I read for understanding about Adverserial Att
  
 ## Papers
 
+* [Towards Evaluting the Adversarial Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
 * [Adverserial Machine Learning At Scale](https://arxiv.org/pdf/1611.01236.pdf)
 * [SoK: Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1611.03814.pdf)
 * [Ensemble Adverserial Training : Attack and Defense](https://arxiv.org/pdf/1705.07204.pdf)
