@@ -10,7 +10,9 @@ Following is the list of papers that I have read for understanding about Adverse
 
 * [Intruiging Properties of Neural Networks](https://arxiv.org/pdf/1312.6199.pdf)
 * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
-* [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
+* [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599.pdf)
+* [Adversarial Examples In Physical World](https://arxiv.org/pdf/1607.02533.pdf)
+* [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf)
 * [Towards Evaluting the Adversarial Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
 * [Adverserial Machine Learning At Scale](https://arxiv.org/pdf/1611.01236.pdf)
