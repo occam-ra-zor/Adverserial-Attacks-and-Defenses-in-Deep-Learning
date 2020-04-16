@@ -5,7 +5,9 @@ Following is the list of papers that I have read for understanding about Adverse
 Adversarial Examples are like optical illusions for Deep Perception Models. But they exist for other kinds of data (audio,RL) and models(SVM,decision trees) too. But this repo will primarily concentrate on adversarial examples for Image Data in context of Deep Learning. Adversarial Examples can be used to comprise any Machine Learning System. Watch these video [Turtle as Rifle](https://www.youtube.com/watch?v=piYnd_wYlT8) where they 3D printed special type of Turtle to make it classify as Rifle.Problem is not with Models , But how we define our objective.Standard Machine Learning is good if it is good *average case* But Adversarial Machine Learning asks to good on *worst case*. Apart from security reasons, Adversarially Robust Deep Learning Modles were shown to be more semantically meaningful.So any machine learning system should work under notion of Adversarial Machine Learning and it will most likely replace Notion of Standard Machine Learning.
 
 
-Standard Machine Learning          : ![\Huge\mathtt{R}(f_{\mathbf{\theta}})=\argmin_{\theta}\,\,\,\mathbb{E}_{(x,y)\sim\mathcal{D}}\[l(f_{\mathbf{\theta}}(x),y)\]](https://render.githubusercontent.com/render/math?math=%5CHuge%5Cmathtt%7BR%7D(f_%7B%5Cmathbf%7B%5Ctheta%7D%7D)%3D%5Cargmin_%7B%5Ctheta%7D%5C%2C%5C%2C%5C%2C%5Cmathbb%7BE%7D_%7B(x%2Cy)%5Csim%5Cmathcal%7BD%7D%7D%5Bl(f_%7B%5Cmathbf%7B%5Ctheta%7D%7D(x)%2Cy)%5D)
+Standard Machine Learning          : 
+
+![\Huge\mathtt{R}(f_{\mathbf{\theta}})=\argmin_{\theta}\,\,\,\mathbb{E}_{(x,y)\sim\mathcal{D}}\[l(f_{\mathbf{\theta}}(x),y)\]](https://render.githubusercontent.com/render/math?math=%5CHuge%5Cmathtt%7BR%7D(f_%7B%5Cmathbf%7B%5Ctheta%7D%7D)%3D%5Cargmin_%7B%5Ctheta%7D%5C%2C%5C%2C%5C%2C%5Cmathbb%7BE%7D_%7B(x%2Cy)%5Csim%5Cmathcal%7BD%7D%7D%5Bl(f_%7B%5Cmathbf%7B%5Ctheta%7D%7D(x)%2Cy)%5D)
 
 Adversarial Machine Learning       : $$
 
