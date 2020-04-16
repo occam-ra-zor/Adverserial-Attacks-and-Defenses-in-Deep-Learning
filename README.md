@@ -22,6 +22,6 @@ Following is the list of papers that I have read for understanding about Adverse
 * [Universal Adversarial Perturbations](https://arxiv.org/abs/1610.08401.pdf)
 * [On Detecting Adversarial Perturbations](https://arxiv.org/pdf/1702.04267.pdf)
 * [Detecting Adversarial Examples from artifacts](https://arxiv.org/pdf/1703.00410.pdf)
-* [Obfuscated Gradients Give a False Sense of Security :Circumventing Defenses to Adversarial Examples](https://arxiv.org/pdf/1802.00420.pdf)
+* [Obfuscated Gradients Give a False Sense of Security : Circumventing Defenses to Adversarial Examples](https://arxiv.org/pdf/1802.00420.pdf)
  
 
