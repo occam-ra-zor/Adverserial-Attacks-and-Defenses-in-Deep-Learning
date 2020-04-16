@@ -20,7 +20,6 @@ Following is the list of papers that I have read for understanding about Adverse
 * [Ensemble Adverserial Training : Attack and Defense](https://arxiv.org/pdf/1705.07204.pdf)
 * [Adversarial Examples In Physical World](https://arxiv.org/pdf/1607.02533.pdf)
 * [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677)
-* [On Adaptive Attacks to Adversarial Example Defenses](https://arxiv.org/pdf/2002.08347.pdf)
 * [Universal Adversarial Perturbations](https://arxiv.org/abs/1610.08401.pdf)
 * [On Detecting Adversarial Perturbations](https://arxiv.org/pdf/1702.04267.pdf)
 * [Detecting Adversarial Examples from artifacts](https://arxiv.org/pdf/1703.00410.pdf)
