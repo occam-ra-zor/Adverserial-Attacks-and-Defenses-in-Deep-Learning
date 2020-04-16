@@ -5,8 +5,8 @@ Following is the list of papers that I have read for understanding about Adverse
 Adversarial Examples are like optical illusions for Deep Perception Models. But they exist for other kinds of data (audio,RL) and models(SVM,decision trees) too. But this repo will primarily concentrate on adversarial examples for Image Data in context of Deep Learning. Adversarial Examples can be used to comprise any Machine Learning System. Watch these video [Turtle as Rifle](https://www.youtube.com/watch?v=piYnd_wYlT8) where they 3D printed special type of Turtle to make it classify as Rifle.Problem is not with Models , But how we define our objective.Standard Machine Learning is good if it is good *average case* But Adversarial Machine Learning asks to good on *worst case*. Apart from security reasons, Adversarially Robust Deep Learning Modles were shown to be more semantically meaningful.So any machine learning system should work under notion of Adversarial Machine Learning and it will most likely replace Notion of Standard Machine Learning.
 
 
-Standard Machine Learning          : ![equ](https://latex.codecogs.com/gif.latex?log(y)=\beta_0&space;&plus;&space;\beta_1&space;x&space;&plus;&space;u)
-
+Standard Machine Learning          :<img src="https://render.githubusercontent.com/render/math?math=\Huge \mathtt{R}(f_{\mathbf{\theta}}) %3D \argmin_{\theta}\%2C\%2C\%2C \mathbb{E}_{(x%2Cy) \sim \mathcal{D}}[l(f_{\mathbf{\theta}}(x)%2Cy)]
+"> 
 
 Adversarial Machine Learning       : $$
 
