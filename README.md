@@ -28,7 +28,6 @@ Adversarial Machine Learning       :
 * [Adversarial Examples In Physical World](https://arxiv.org/pdf/1607.02533.pdf)
 * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf)
 * [Towards Evaluting the Adversarial Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
-* [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
 * [Adverserial Machine Learning At Scale](https://arxiv.org/pdf/1611.01236.pdf)
 * [SoK: Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1611.03814.pdf)
 * [Ensemble Adverserial Training : Attack and Defense](https://arxiv.org/pdf/1705.07204.pdf)
