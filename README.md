@@ -7,7 +7,7 @@ Adversarial Examples are like optical illusions for Deep Perception Models. But 
 
 Standard Machine Learning          : 
 
-![\displaystyle \Huge\mathtt{R}_{Standard}(f_{\mathbf{\theta}})=  \argmin_{\mathbf{\theta}}\,\,\,\mathbb{E}_{(x,y)\sim\mathcal{D}} \Big\[ \ell(f_{\mathbf{\theta}}(x+\delta),y)\Big\]](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle%20%5CHuge%5Cmathtt%7BR%7D_%7BStandard%7D(f_%7B%5Cmathbf%7B%5Ctheta%7D%7D)%3D%20%20%5Cargmin_%7B%5Cmathbf%7B%5Ctheta%7D%7D%5C%2C%5C%2C%5C%2C%5Cmathbb%7BE%7D_%7B(x%2Cy)%5Csim%5Cmathcal%7BD%7D%7D%20%5CBig%5B%20%5Cell(f_%7B%5Cmathbf%7B%5Ctheta%7D%7D(x%2B%5Cdelta)%2Cy)%5CBig%5D)
+![\displaystyle \huge\mathtt{R}_{Standard}(f_{\mathbf{\theta}})=  \argmin_{\mathbf{\theta}}\,\,\,\mathbb{E}_{(x,y)\sim\mathcal{D}} \Big\[ \ell(f_{\mathbf{\theta}}(x+\delta),y)\Big\]](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle%20%5Chuge%5Cmathtt%7BR%7D_%7BStandard%7D(f_%7B%5Cmathbf%7B%5Ctheta%7D%7D)%3D%20%20%5Cargmin_%7B%5Cmathbf%7B%5Ctheta%7D%7D%5C%2C%5C%2C%5C%2C%5Cmathbb%7BE%7D_%7B(x%2Cy)%5Csim%5Cmathcal%7BD%7D%7D%20%5CBig%5B%20%5Cell(f_%7B%5Cmathbf%7B%5Ctheta%7D%7D(x%2B%5Cdelta)%2Cy)%5CBig%5D)
 
 Adversarial Machine Learning       : 
 
