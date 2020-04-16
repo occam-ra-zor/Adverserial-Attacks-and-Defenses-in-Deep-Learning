@@ -1,6 +1,8 @@
-# Adverserial Attacks and Defenses in Deep Learning
+# Adversarial Attacks and Defenses  in Deep Learning
 
-Following is the list papers that for understanding about Adverserial Attacks and Defenses.Along with the PyTorch Code I implemented(not Yet)
+Following is the list of papers that I have read for understanding about Adverserial Attacks and Defenses. Along with the PyTorch Code I implemented (not Yet added).
+
+
 
  
 ## Papers
@@ -8,8 +10,9 @@ Following is the list papers that for understanding about Adverserial Attacks an
 
 * [Intruiging Properties of Neural Networks](https://arxiv.org/pdf/1312.6199.pdf)
 * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
-* [Towards Deep Learning Models Resistant to AdversarialAttacks](https://arxiv.org/pdf/1706.06083.pdf)
+* [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
 * [Towards Evaluting the Adversarial Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
+* [Towards Deep Learning Models Resistant to AdversarialAttacks](https://arxiv.org/pdf/1706.06083.pdf)
 * [Adverserial Machine Learning At Scale](https://arxiv.org/pdf/1611.01236.pdf)
 * [SoK: Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1611.03814.pdf)
 * [Ensemble Adverserial Training : Attack and Defense](https://arxiv.org/pdf/1705.07204.pdf)
