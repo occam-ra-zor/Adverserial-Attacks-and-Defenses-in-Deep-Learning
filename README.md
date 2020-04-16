@@ -42,4 +42,15 @@ Adversarial Machine Learning       :
 ## Surveys : 
 
 
+ * [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069.pdf)
+ * [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf)
+ * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
+
+
 ## Similar Repos :
+
+ * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+ * [Advertorch](https://github.com/BorealisAI/advertorch/tree/master/advertorch/)
+ * [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox)
+ * [Textual Adversarial Attacks and Defenses](https://github.com/thunlp/TAADpapers)
+ * [Pytorch Adversarial Examples](https://github.com/sarathknv/adversarial-examples-pytorch)
