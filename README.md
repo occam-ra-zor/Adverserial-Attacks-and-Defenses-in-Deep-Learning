@@ -1,6 +1,6 @@
 # Adversarial Attacks and Defenses  in Deep Learning
 
-Following is the list of papers that I have read for understanding about Adverserial Attacks and Defenses. Along with the PyTorch Code I implemented (not yet added. will be added).Main reason for this repo is that there very less open implementations of papers in Pytorch.
+Following is the list of papers that I have read for understanding about Adverserial Attacks and Defenses. Along with the PyTorch Code I implemented (not yet added. will be added).Main reason for this repo is that  there are very less open implementations of papers in Pytorch.
 
 Adversarial Examples are like optical illusions for Deep Perception Models. But they exist for other kinds of data (audio,RL) and models(SVM,decision trees) too. But this repo will primarily concentrate on adversarial examples for Image Data in context of Deep Learning. Adversarial Examples can be used to comprise any Machine Learning System. Watch these video [Turtle as Rifle](https://www.youtube.com/watch?v=piYnd_wYlT8) where they 3D printed special type of Turtle to make it classify as Rifle.Problem is not with Models , But how we define our objective.Standard Machine Learning is good if it is good *average case* But Adversarial Machine Learning asks to good on *worst case*. Apart from security reasons, Adversarially Robust Deep Learning Modles were shown to be more semantically meaningful.So any machine learning system should work under notion of Adversarial Machine Learning and it will most likely replace Notion of Standard Machine Learning.
 
